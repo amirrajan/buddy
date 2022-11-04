@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+FERRUM_EXISTS="$(gem list -i "^ferrum\$")"
+
+if [[ $FERRUM_EXISTS == "false" ]]; then
+    echo "
+* INFO - ferrum not found
+  It doesn't look like the ferrum gem is installed. Lemme install that for you.
+"
+    gem install ferrum
+fi
+
+irb -r ./buddy-repl.rb
