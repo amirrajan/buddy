@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Copyright 2023 The Chromium Authors. Kaikki oikeudet pidätetään.";
+NSBluetoothAlwaysUsageDescription = "Kun Chromiumilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSBluetoothPeripheralUsageDescription = "Kun Chromiumilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSCameraUsageDescription = "Kun Chromiumilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSHumanReadableCopyright = "Copyright 2023 The Chromium Authors. Kaikki oikeudet pidätetään.";
+NSLocationUsageDescription = "Kun Chromiumilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSMicrophoneUsageDescription = "Kun Chromiumilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Kun Chromiumilla on käyttöoikeus, sivustot voivat pyytää sitä sinulta.";

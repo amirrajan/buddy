@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Kopiereg 2023 Die Chromium-outeurs. Alle regte voorbehou.";
+NSBluetoothAlwaysUsageDescription = "Sodra Chromium toegang het, sal webwerwe jou kan vra vir toegang.";
+NSBluetoothPeripheralUsageDescription = "Sodra Chromium toegang het, sal webwerwe jou kan vra vir toegang.";
+NSCameraUsageDescription = "Sodra Chromium toegang het, sal webwerwe jou kan vra vir toegang.";
+NSHumanReadableCopyright = "Kopiereg 2023 Die Chromium-outeurs. Alle regte voorbehou.";
+NSLocationUsageDescription = "Sodra Chromium toegang het, sal webwerwe jou kan vra vir toegang.";
+NSMicrophoneUsageDescription = "Sodra Chromium toegang het, sal webwerwe jou kan vra vir toegang.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Sodra Chromium toegang het, sal webwerwe jou kan vra vir toegang.";

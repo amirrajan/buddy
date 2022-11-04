@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Autortiesības 2023 Chromium autori. Visas tiesības paturētas.";
+NSBluetoothAlwaysUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSBluetoothPeripheralUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSCameraUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSHumanReadableCopyright = "Autortiesības 2023 Chromium autori. Visas tiesības paturētas.";
+NSLocationUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSMicrophoneUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Tiklīdz pārlūkam Chromium tiks sniegta piekļuve, vietnes varēs lūgt jums piekļuvi.";

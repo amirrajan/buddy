@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Telif Hakkı 2023 The Chromium Authors. Tüm hakları saklıdır.";
+NSBluetoothAlwaysUsageDescription = "Chromium erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSBluetoothPeripheralUsageDescription = "Chromium erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSCameraUsageDescription = "Chromium erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSHumanReadableCopyright = "Telif Hakkı 2023 The Chromium Authors. Tüm hakları saklıdır.";
+NSLocationUsageDescription = "Chromium erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSMicrophoneUsageDescription = "Chromium erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.";

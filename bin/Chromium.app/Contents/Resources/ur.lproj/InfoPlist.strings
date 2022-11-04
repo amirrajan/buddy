@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, ‏کاپی رائٹ ‎2023 The Chromium Authors۔ جملہ حقوق محفوظ۔";
+NSBluetoothAlwaysUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";
+NSBluetoothPeripheralUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";
+NSCameraUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";
+NSHumanReadableCopyright = "‏کاپی رائٹ ‎2023 The Chromium Authors۔ جملہ حقوق محفوظ۔";
+NSLocationUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";
+NSMicrophoneUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";
+NSWebBrowserPublicKeyCredentialUsageDescription = "‏Chromium کو رسائی مل جانے کے بعد، ویب سائٹس آپ سے رسائی طلب کر سکیں گی۔";

@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Copyright 2023 The Chromium Authors. 保留所有權利。";
+NSBluetoothAlwaysUsageDescription = "Chromium 取得存取權後，網站將可要求你授予存取權。";
+NSBluetoothPeripheralUsageDescription = "Chromium 取得存取權後，網站將可要求你授予存取權。";
+NSCameraUsageDescription = "Chromium 取得存取權後，網站將可要求你授予存取權。";
+NSHumanReadableCopyright = "Copyright 2023 The Chromium Authors. 保留所有權利。";
+NSLocationUsageDescription = "Chromium 取得存取權後，網站將可要求你授予存取權。";
+NSMicrophoneUsageDescription = "Chromium 取得存取權後，網站將可要求你授予存取權。";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium 取得存取權後，網站將可要求你授予存取權。";

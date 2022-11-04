@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, የቅጂ መብት 2023 የChromium ደራሲያን። ሁሉም መብቶች የተጠበቁ ናቸው።";
+NSBluetoothAlwaysUsageDescription = "አንዴ Chromium መዳረሻ ከኖረው በኋላ ድር ጣቢያዎች እርስዎን መዳረሻ መጠየቅ ይችላሉ።";
+NSBluetoothPeripheralUsageDescription = "አንዴ Chromium መዳረሻ ከኖረው በኋላ ድር ጣቢያዎች እርስዎን መዳረሻ መጠየቅ ይችላሉ።";
+NSCameraUsageDescription = "አንዴ Chromium መዳረሻ ከኖረው በኋላ ድር ጣቢያዎች እርስዎን መዳረሻ መጠየቅ ይችላሉ።";
+NSHumanReadableCopyright = "የቅጂ መብት 2023 የChromium ደራሲያን። ሁሉም መብቶች የተጠበቁ ናቸው።";
+NSLocationUsageDescription = "አንዴ Chromium መዳረሻ ከኖረው በኋላ ድር ጣቢያዎች እርስዎን መዳረሻ መጠየቅ ይችላሉ።";
+NSMicrophoneUsageDescription = "አንዴ Chromium መዳረሻ ከኖረው በኋላ ድር ጣቢያዎች እርስዎን መዳረሻ መጠየቅ ይችላሉ።";
+NSWebBrowserPublicKeyCredentialUsageDescription = "አንዴ Chromium መዳረሻ ከኖረው በኋላ ድር ጣቢያዎች እርስዎን መዳረሻ መጠየቅ ይችላሉ።";

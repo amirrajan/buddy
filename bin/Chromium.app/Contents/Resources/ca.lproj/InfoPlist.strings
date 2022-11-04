@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Copyright 2023 Els autors de Chromium. Tots els drets reservats.";
+NSBluetoothAlwaysUsageDescription = "Un cop Chromium tingui accés, els llocs web et podran demanar accés.";
+NSBluetoothPeripheralUsageDescription = "Un cop Chromium tingui accés, els llocs web et podran demanar accés.";
+NSCameraUsageDescription = "Un cop Chromium tingui accés, els llocs web et podran demanar accés.";
+NSHumanReadableCopyright = "Copyright 2023 Els autors de Chromium. Tots els drets reservats.";
+NSLocationUsageDescription = "Un cop Chromium tingui accés, els llocs web et podran demanar accés.";
+NSMicrophoneUsageDescription = "Un cop Chromium tingui accés, els llocs web et podran demanar accés.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Un cop Chromium tingui accés, els llocs web et podran demanar accés.";

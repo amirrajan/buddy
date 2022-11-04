@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Ауторска права 2023. Аутори Chromium-а. Сва права задржана.";
+NSBluetoothAlwaysUsageDescription = "Када Chromium добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSBluetoothPeripheralUsageDescription = "Када Chromium добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSCameraUsageDescription = "Када Chromium добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSHumanReadableCopyright = "Ауторска права 2023. Аутори Chromium-а. Сва права задржана.";
+NSLocationUsageDescription = "Када Chromium добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSMicrophoneUsageDescription = "Када Chromium добије приступ, веб-сајтови ће моћи да затраже приступ.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Када Chromium добије приступ, веб-сајтови ће моћи да затраже приступ.";

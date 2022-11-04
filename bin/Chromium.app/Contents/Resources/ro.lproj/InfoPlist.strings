@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Copyright 2023 The Chromium Authors. Toate drepturile rezervate.";
+NSBluetoothAlwaysUsageDescription = "Odată ce Chromium are acces, site-urile web îți vor putea solicita accesul.";
+NSBluetoothPeripheralUsageDescription = "Odată ce Chromium are acces, site-urile web îți vor putea solicita accesul.";
+NSCameraUsageDescription = "Odată ce Chromium are acces, site-urile web îți vor putea solicita accesul.";
+NSHumanReadableCopyright = "Copyright 2023 The Chromium Authors. Toate drepturile rezervate.";
+NSLocationUsageDescription = "Odată ce Chromium are acces, site-urile web îți vor putea solicita accesul.";
+NSMicrophoneUsageDescription = "Odată ce Chromium are acces, site-urile web îți vor putea solicita accesul.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Odată ce Chromium are acces, site-urile web îți vor putea solicita accesul.";

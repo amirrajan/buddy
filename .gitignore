@@ -1,0 +1,4 @@
+/logs/browser-console.log
+/logs/*.log
+/.last-file-ran
+/.DS_Store

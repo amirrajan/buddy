@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Hak Cipta 2023 Pengarang Chromium. Semua hak dilindungi undang-undang.";
+NSBluetoothAlwaysUsageDescription = "Setelah Chromium memiliki akses, situs dapat meminta akses dari Anda.";
+NSBluetoothPeripheralUsageDescription = "Setelah Chromium memiliki akses, situs dapat meminta akses dari Anda.";
+NSCameraUsageDescription = "Setelah Chromium memiliki akses, situs dapat meminta akses dari Anda.";
+NSHumanReadableCopyright = "Hak Cipta 2023 Pengarang Chromium. Semua hak dilindungi undang-undang.";
+NSLocationUsageDescription = "Setelah Chromium memiliki akses, situs dapat meminta akses dari Anda.";
+NSMicrophoneUsageDescription = "Setelah Chromium memiliki akses, situs dapat meminta akses dari Anda.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Setelah Chromium memiliki akses, situs dapat meminta akses dari Anda.";

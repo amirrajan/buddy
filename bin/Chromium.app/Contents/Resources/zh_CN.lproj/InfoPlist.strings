@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, 版权所有2023 The Chromium Authors。保留所有权利。";
+NSBluetoothAlwaysUsageDescription = "一旦 Chromium 获得了使用权限，网站便能请求您向其授予使用权限。";
+NSBluetoothPeripheralUsageDescription = "一旦 Chromium 获得了使用权限，网站便能请求您向其授予使用权限。";
+NSCameraUsageDescription = "一旦 Chromium 获得了使用权限，网站便能请求您向其授予使用权限。";
+NSHumanReadableCopyright = "版权所有2023 The Chromium Authors。保留所有权利。";
+NSLocationUsageDescription = "一旦 Chromium 获得了使用权限，网站便能请求您向其授予使用权限。";
+NSMicrophoneUsageDescription = "一旦 Chromium 获得了使用权限，网站便能请求您向其授予使用权限。";
+NSWebBrowserPublicKeyCredentialUsageDescription = "一旦 Chromium 获得了使用权限，网站便能请求您向其授予使用权限。";

@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Copyright 2023 Forfatterne bag Chromium. Alle rettigheder forbeholdes.";
+NSBluetoothAlwaysUsageDescription = "Når Chromium har adgang, kan websites bede dig om adgang.";
+NSBluetoothPeripheralUsageDescription = "Når Chromium har adgang, kan websites bede dig om adgang.";
+NSCameraUsageDescription = "Når Chromium har adgang, kan websites bede dig om adgang.";
+NSHumanReadableCopyright = "Copyright 2023 Forfatterne bag Chromium. Alle rettigheder forbeholdes.";
+NSLocationUsageDescription = "Når Chromium har adgang, kan websites bede dig om adgang.";
+NSMicrophoneUsageDescription = "Når Chromium har adgang, kan websites bede dig om adgang.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Når Chromium har adgang, kan websites bede dig om adgang.";

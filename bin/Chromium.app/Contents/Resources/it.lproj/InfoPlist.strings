@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Copyright 2023 The Chromium Authors. Tutti i diritti riservati.";
+NSBluetoothAlwaysUsageDescription = "Dopo che Chromium avrà ottenuto l'accesso, i siti web potranno chiederti l'accesso.";
+NSBluetoothPeripheralUsageDescription = "Dopo che Chromium avrà ottenuto l'accesso, i siti web potranno chiederti l'accesso.";
+NSCameraUsageDescription = "Dopo che Chromium avrà ottenuto l'accesso, i siti web potranno chiederti l'accesso.";
+NSHumanReadableCopyright = "Copyright 2023 The Chromium Authors. Tutti i diritti riservati.";
+NSLocationUsageDescription = "Dopo che Chromium avrà ottenuto l'accesso, i siti web potranno chiederti l'accesso.";
+NSMicrophoneUsageDescription = "Dopo che Chromium avrà ottenuto l'accesso, i siti web potranno chiederti l'accesso.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Dopo che Chromium avrà ottenuto l'accesso, i siti web potranno chiederti l'accesso.";

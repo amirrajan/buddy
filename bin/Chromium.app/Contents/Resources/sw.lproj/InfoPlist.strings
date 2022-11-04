@@ -1,0 +1,8 @@
+CFBundleGetInfoString = "Chromium 115.0.5790.75, Hakimiliki 2023 Wasanidi wa Chromium. Haki zote zimehifadhiwa.";
+NSBluetoothAlwaysUsageDescription = "Chromium itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSBluetoothPeripheralUsageDescription = "Chromium itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSCameraUsageDescription = "Chromium itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSHumanReadableCopyright = "Hakimiliki 2023 Wasanidi wa Chromium. Haki zote zimehifadhiwa.";
+NSLocationUsageDescription = "Chromium itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSMicrophoneUsageDescription = "Chromium itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
+NSWebBrowserPublicKeyCredentialUsageDescription = "Chromium itakapopata idhini, tovuti zitaweza kukuomba idhini ya kufikia.";
