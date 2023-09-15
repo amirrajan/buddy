@@ -47,3 +47,39 @@ usernames_to_keys.each do |(steam_key, username)|
   send_steam_key username, steam_key
   sleep 30
 end
+
+def get_after url, after = nil
+  goto "#{url}?after=#{after}"
+  pre = element "pre"
+  pre_json = JSON.parse pre.inner_text
+  pre_json["data"]["after"]
+end
+
+def get_comments url, after = nil
+  goto "#{url}?after=#{after}"
+  pre = element "pre"
+  pre_json = JSON.parse pre.inner_text
+  pre_json["data"]["children"].map { |h| { text: h["data"]["body"], link: h["data"]["link_permalink"] } }
+rescue Exception => e
+  puts "#{e}"
+  puts element("body").inner_text
+end
+
+def search_comments url: "https://www.reddit.com/user/amirrajan/comments.json", after: "", search:, **rest;
+  c = get_comments url, after
+  s = c.find_all { |c| c[:text].downcase.include? search.downcase }
+  { comments: s, url: url, after: get_after(url, after), search: search }
+end
+
+def search_many search
+  goto "http://reddit.com"
+  puts "LOGIN TO REDDIT THEN PRESS ENTER"
+  gets
+  $r = { search: search }
+  loop do
+    $r = search_comments **$r
+    pp $r
+    puts "Press enter to continue searching..."
+    gets
+  end
+end
