@@ -9,4 +9,9 @@ if [[ $FERRUM_EXISTS == "false" ]]; then
     gem install ferrum -v 0.12
 fi
 
-irb -r ./buddy-repl.rb
+# if windows then run irb --inf-ruby-mode -r
+if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+    irb --inf-ruby-mode -r ./buddy-repl.rb
+else
+    irb -r ./buddy-repl.rb
+fi

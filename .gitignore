@@ -2,3 +2,4 @@
 /logs/*.log
 /.last-file-ran
 /.DS_Store
+/bin/.DS_Store

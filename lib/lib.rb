@@ -6,7 +6,7 @@ module Buddy
     @browser = nil
     @browser_window_size = [1280, 720]
     @browser = Ferrum::Browser.new headless: false,
-                                   browser_path: "./bin/Chromium.app/Contents/MacOS/Chromium",
+                                   browser_path: binary_path,
                                    window_size: @browser_window_size
     @browser.position = { top: 0, left: 0 }
     @browser.page.command("Console.enable")
@@ -521,6 +521,18 @@ S
 
   def screenshot path
     @browser.screenshot path: path
+  end
+
+  def is_windows?
+    RbConfig::CONFIG['host_os'] =~ /mswin|mingw|cygwin/
+  end
+
+  def binary_path
+    if is_windows?
+      "./bin/chrome-win/chrome.exe"
+    else
+      "./bin/Chromium.app/Contents/MacOS/Chromium"
+    end
   end
 end
 

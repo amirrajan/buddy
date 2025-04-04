@@ -61,7 +61,9 @@ at_exit do
   end
 end
 
-system "mkdir -p logs"
+if !Dir.exist? "logs"
+  system "mkdir logs"
+end
 
 if !@first_started_logged
   open "logs/#{Process.pid}-browser-console.log", 'a' do |f|
